@@ -1,5 +1,5 @@
-# pomodoro-timer
-Pomodoro timer made in React with customizable parameters.
+# Multifunctional-Timer
+Multifunctional timer app with different modes, including Pomodoro timer. Created in React with customizable parameters.
 
 ## Features
 - Custom parameters
